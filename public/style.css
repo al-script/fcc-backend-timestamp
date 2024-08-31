@@ -1,29 +1,30 @@
 /****** Main Styling ******/
 
 body {
-	font-family: 'Roboto', sans-serif;
-	font-size: 16px;
-	color: #222;
-	background-color: #FaFaFa;
-	text-align: center;
-	line-height: 1.4em;
+  background-color: #a9b4c2;
+  text-align: center;
 }
 
-.container {
-	padding: 0;
-	margin-top: 40px;
+.display-1 {
+  color: white;
+}
+
+.display-5 {
+  font-size: 2rem;
+}
+
+.display-6 {
+  font-size: 1.5rem;
+  text-decoration: none;
+}
+
+.card {
+  border: none;
+  background-color: white;
 }
 
 h3 {
-  margin-top: 30px;
-}
-
-hr {
-	margin: 25px;
-}
-
-.footer {
-	margin-top: 40px;
+  margin-top: 15px;
 }
 
 code {
@@ -34,13 +35,9 @@ code {
 }
 
 ul {
-	list-style-type: none;
-}
-
-li {
-  margin-bottom: 0.5em;
+  list-style-type: none;
 }
 
 a {
-	color: #2574A9;
+  color: #2574a9;
 }
